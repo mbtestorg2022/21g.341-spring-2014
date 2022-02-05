@@ -22,13 +22,66 @@ Dans ce cours, nous allons explorer plusieurs aspects de la société française
 Notes finales
 -------------
 
-| ACTIVITÉS | PERCENTAGES |
-| --- | --- |
-| Participation | 20% |
-| Réponses | 20% |
-| Discussion | 15% |
-| Papiers | 35% |
-| Présentation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITÉS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Réponses
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papiers
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Présentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Participation
 -------------
@@ -49,20 +102,219 @@ Papiers et Présentation
 Programme du cours
 ------------------
 
-| Sess # | Sujets | Dates Clés |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2, 3 | Race, classe sociale et immigration | Réponse 1 à rendre |
-| 4 | Société à la télévision | Réponse 2 à rendre |
-| 5, 6 | Race, classe sociale et immigration |  {{< br >}}{{< br >}} Réponse 3 à rendre {{< br >}}{{< br >}} Premier papier à rendre {{< br >}}{{< br >}}  |
-| 7, 8 | Race, classe sociale et immigration | &nbsp; |
-| 9, 10 | Sexe, genre, et amour avec invitée Geneviève Sellier | Réponse 4 à rendre |
-| 11, 12 | Sexe, genre, et amour | Réponse 5 à rendre |
-| 13, 14 | Sexe, genre, et amour (cont.) | Réponse 6 à rendre |
-| 15, 16 | Histoire et famille |  {{< br >}}{{< br >}} Réponse 7 à rendre {{< br >}}{{< br >}} Plan de projet de recherche à rendre  {{< br >}}{{< br >}}  |
-| 17 | Histoire | &nbsp; |
-| 18 | Histoire (cont.) |  {{< br >}}{{< br >}} Réponse 8 à rendre {{< br >}}{{< br >}} Papier de recherche à rendre {{< br >}}{{< br >}}  |
-| 19, 20 | Histoire et famille | &nbsp; |
-| 21, 22 | Histoire et famille (cont.) | Réponse 9 à rendre |
-| 23 | Cours annulé | &nbsp; |
-| 24 | Présentations de projets de film | Présentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Sess #
+{{< thclose >}}
+{{< thopen >}}
+Sujets
+{{< thclose >}}
+{{< thopen >}}
+Dates Clés
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2, 3
+{{< tdclose >}}
+{{< tdopen >}}
+Race, classe sociale et immigration
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 1 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Société à la télévision
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 2 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5, 6
+{{< tdclose >}}
+{{< tdopen >}}
+Race, classe sociale et immigration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Réponse 3 à rendre
+
+Premier papier à rendre
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7, 8
+{{< tdclose >}}
+{{< tdopen >}}
+Race, classe sociale et immigration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9, 10
+{{< tdclose >}}
+{{< tdopen >}}
+Sexe, genre, et amour avec invitée Geneviève Sellier
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 4 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11, 12
+{{< tdclose >}}
+{{< tdopen >}}
+Sexe, genre, et amour
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 5 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13, 14
+{{< tdclose >}}
+{{< tdopen >}}
+Sexe, genre, et amour (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 6 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15, 16
+{{< tdclose >}}
+{{< tdopen >}}
+Histoire et famille
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Réponse 7 à rendre
+
+Plan de projet de recherche à rendre 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Histoire
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Histoire (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Réponse 8 à rendre
+
+Papier de recherche à rendre
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19, 20
+{{< tdclose >}}
+{{< tdopen >}}
+Histoire et famille
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21, 22
+{{< tdclose >}}
+{{< tdopen >}}
+Histoire et famille (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Réponse 9 à rendre
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Cours annulé
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Présentations de projets de film
+{{< tdclose >}}
+{{< tdopen >}}
+Présentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
