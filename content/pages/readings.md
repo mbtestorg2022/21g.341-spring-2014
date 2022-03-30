@@ -114,7 +114,7 @@ Société à la télévision
 
 ### Lire
 
-Bevernage, L., et al. « ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Les séries TV française: pourquoi ça ne marche pas. » (PDF)](http://www.infoguerre.fr/documents/Crise_des_Series_TV.pdf) Ecole de Guerre Economique, Décembre 2007.
+Bevernage, L., et al. « [Les séries TV française: pourquoi ça ne marche pas. » (PDF)](http://www.infoguerre.fr/documents/Crise_des_Series_TV.pdf) Ecole de Guerre Economique, Décembre 2007.
 
  Edmiston, W. and A. Dumenil.  « La télévision. » Dans _La France contemporaine._ 4 edition. Cengage Learning, 2009. ISBN: 978-1-4282-3123-8. 
 
